@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.plugin.languages.charts.svg" alt="Metrics">
+</picture>
+
+<picture>
+  <img src="/metrics.plugin.habits.charts.svg" alt="Metrics">
 </picture>
 
 <picture>
